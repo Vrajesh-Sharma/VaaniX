@@ -11,3 +11,4 @@ packaging==24.1
 pypiwin32==223
 pyttsx3==2.98
 Werkzeug==3.0.4
+pywin32==223
