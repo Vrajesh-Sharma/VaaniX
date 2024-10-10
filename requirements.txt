@@ -8,7 +8,5 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
 packaging==21.0
-pypiwin32==223  # No change needed, this should be fine
 pyttsx3==2.7
-pywin32==300
 Werkzeug==2.1.2
